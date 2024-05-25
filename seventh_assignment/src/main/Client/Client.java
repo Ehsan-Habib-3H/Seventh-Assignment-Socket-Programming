@@ -5,6 +5,8 @@ public class Client {
     // TODO: Add constructor and necessary methods
 
     public static void main(String[] args) {
+        InputStreamReader streamReader;
+
         // TODO: Implement the main method to start the client
     }
 }
